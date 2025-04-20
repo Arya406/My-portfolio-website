@@ -53,8 +53,8 @@ export default function Header() {
       <div className="container mx-auto px-6 py-4">
         <div className="flex justify-between items-center">
           <Link href="#home" className="text-2xl font-bold tracking-tight">
-            <span className="text-primary">Alex</span>
-            <span className="text-gray-900 dark:text-white">Morgan</span>
+            <span className="text-primary">Arya</span>
+            <span className="text-gray-900 dark:text-white">Singh</span>
           </Link>
           
           <div className="hidden md:flex space-x-8">

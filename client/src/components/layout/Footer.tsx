@@ -27,8 +27,8 @@ export default function Footer() {
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="mb-4 md:mb-0">
             <Link href="#home" className="text-2xl font-bold tracking-tight">
-              <span className="text-primary">Alex</span>
-              <span className="text-gray-900 dark:text-white">Morgan</span>
+              <span className="text-primary">Arya</span>
+              <span className="text-gray-900 dark:text-white">Singh</span>
             </Link>
             <p className="text-gray-600 dark:text-gray-400 mt-2">
               Full-stack Developer & UI/UX Designer
@@ -50,7 +50,7 @@ export default function Footer() {
         
         <div className="border-t border-gray-200 dark:border-gray-700 mt-8 pt-8 flex flex-col md:flex-row justify-between items-center">
           <div className="text-gray-500 dark:text-gray-400 text-sm mb-4 md:mb-0">
-            © {new Date().getFullYear()} Alex Morgan. All rights reserved.
+            © {new Date().getFullYear()} Arya Singh. All rights reserved.
           </div>
           
           <div className="flex space-x-4">

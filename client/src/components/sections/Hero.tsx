@@ -68,8 +68,8 @@ export default function Hero() {
           >
             <div className="text-sm font-mono text-primary mb-3">Hi, my name is</div>
             <h1 className="text-5xl md:text-7xl font-bold mb-6 tracking-tighter relative inline-block">
-              Alex Morgan
-              <div className="absolute -bottom-2 left-0 h-1 w-1/3 bg-primary"></div>
+              Arya Singh
+              
             </h1>
             <h2 className="text-3xl md:text-5xl font-medium text-gray-700 dark:text-gray-300 mb-6">
               I build <span className="text-primary">interactive</span> experiences for the web
@@ -122,8 +122,8 @@ export default function Hero() {
                 style={parallaxStyle}
               >
                 <img 
-                  src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80" 
-                  alt="Profile of Alex Morgan"
+                  src="https://media.licdn.com/dms/image/v2/D5603AQEhxewDWbi1rg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1709559939801?e=1750291200&v=beta&t=8X7Ia3HDxuUPl15nf3-Mf7mZDNcqRrbSzHK8ghACEQs" 
+                  alt="Profile of Arya Singh"
                   className="w-full h-full object-cover"
                 />
               </motion.div>

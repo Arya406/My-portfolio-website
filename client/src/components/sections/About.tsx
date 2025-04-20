@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import { useAnimateOnScroll } from "@/hooks/use-animation";
 
 const technologies = [
-  "JavaScript (ES6+)",
+  "JavaScript",
   "React.js",
   "Next.js",
   "Node.js",
@@ -31,16 +31,16 @@ export default function About() {
             transition={{ duration: 0.7 }}
           >
             <p className="text-lg text-gray-700 dark:text-gray-300 mb-6">
-              Hello! I'm Alex, a passionate web developer with over 7 years of experience in building 
+              Hello! I'm Arya Singh, a passionate web developer with over 1 years of experience in building 
               digital products and experiences. I enjoy creating things that live on the internet, 
               whether that be websites, applications, or anything in between.
             </p>
             <p className="text-lg text-gray-700 dark:text-gray-300 mb-6">
-              My journey in web development started back in 2016 when I decided to try editing custom Tumblr themes — 
+              My journey in web development started back in 2024 when I decided to try editing custom Tumblr themes — 
               turns out hacking together a custom reblog button taught me a lot about HTML & CSS!
             </p>
             <p className="text-lg text-gray-700 dark:text-gray-300 mb-8">
-              Since then, I've had the privilege of working at an <span className="text-primary">advertising agency</span>, 
+              Since then, I've had the privilege of working at an <span className="text-primary">gaming development company</span>, 
               a <span className="text-primary">start-up</span>, a <span className="text-primary">huge corporation</span>, and a 
               <span className="text-primary"> student-led design studio</span>. These days, I'm focused on building accessible, 
               inclusive products and digital experiences at <span className="text-primary">Acme Inc</span>.
@@ -71,8 +71,8 @@ export default function About() {
               <div className="absolute -inset-4 bg-primary/20 rounded-lg blur-lg opacity-0 group-hover:opacity-100 transition-opacity duration-500"></div>
               <div className="gradient-border p-2 bg-white dark:bg-gray-900 relative">
                 <img 
-                  src="https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1064&q=80" 
-                  alt="Alex Morgan working" 
+                  src="https://images.unsplash.com/photo-1743945968054-088cff86a63a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
+                  alt="Arya Singh working" 
                   className="w-full h-auto rounded-md hover:scale-[1.02] transition-transform duration-300"
                 />
               </div>
