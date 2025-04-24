@@ -23,22 +23,24 @@ const technicalSkills: Skill[] = [
   { name: "Frontend Development", percentage: 95 },
   { name: "Backend Development", percentage: 85 },
   { name: "UI/UX Design", percentage: 80 },
-  { name: "DevOps", percentage: 70 },
+  
   { name: "Mobile Development", percentage: 75 },
 ];
 
 const techTags: TechTag[] = [
-  { name: "JavaScript" }, { name: "TypeScript" }, { name: "React.js" },
+  { name: "JavaScript" }, { name: "TypeScript" }, { name: "React.js" },{ name: "Python"},
+  { name: "C++"},{ name: "PHP"},{ name: "MYSQL"},{ name: "XAMPP"},
   { name: "Next.js" }, { name: "Node.js" }, { name: "Express" },
   { name: "MongoDB" }, { name: "PostgreSQL" }, { name: "GraphQL" },
   { name: "Redux" }, { name: "Tailwind CSS" }, { name: "SASS" },
-  { name: "Figma" }, { name: "Git" }, { name: "Docker" }, { name: "AWS" },
+  { name: "Figma" }, { name: "Git" },{ name: "Flask" },{ name: "HTML" },{ name: "CSS" },{ name: "Machine Learning" },
+  { name: "Artifical Intelligence" },
 ];
 
 const softSkills: SoftSkill[] = [
   { 
     name: "Team Leadership", 
-    description: "Managed 5+ developers", 
+    description: "", 
     icon: "fa-solid fa-users",
     iconBgClass: "bg-primary/10",
     iconColorClass: "text-primary"

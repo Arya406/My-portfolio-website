@@ -8,7 +8,7 @@ import { ProjectCard } from "@/types";
 const projects: ProjectCard[] = [
   {
     id: 1,
-    title: "E-commerce Dashboard",
+    title: "OPTION EXPERT",
     description: "A comprehensive dashboard for e-commerce businesses with analytics, inventory management, and customer insights.",
     image: "https://images.unsplash.com/photo-1551434678-e076c223a692?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
     category: "web",
@@ -95,9 +95,7 @@ const projects: ProjectCard[] = [
 // Category filters
 const filters = [
   { id: "all", label: "All Projects" },
-  { id: "web", label: "Web Apps" },
-  { id: "mobile", label: "Mobile" },
-  { id: "design", label: "UI/UX Design" },
+ 
 ];
 
 export default function Projects() {
